@@ -1,0 +1,22 @@
+{
+    "qq": -1,
+    "password": "ÔÚÕâÀïÌîĞ´ÃÜÂë",
+    "auto-access-friend-request": true,
+    "unregister-default-commands": true,
+    "managers":[],
+    "private-message-taker": -1,
+    "blacklist": [
+        1070439843,
+		2633438891,
+		3294084441,
+		2535734280,
+		2863912051
+	],
+	"access-groups":{
+	    ""
+	},
+	"recall-settings":{
+	    "forward-group": -1,
+	    "listen-groups": []
+	}
+}
