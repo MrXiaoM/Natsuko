@@ -33,3 +33,4 @@ and so on.
 * [mrxiaom/mirai-utils](https://github.com/mrxiaom/mirai-utils)  
 * [netty/netty](https://github.com/netty/netty)  
 * [Steveice10/MCProtocolLib](https://github.com/Steveice10/MCProtocolLib) (我做了点修改，屏蔽了区块错误的报错等等，修改后的jar请见 Releases)  
+* [zxing/zxing](https://github.com/zxing/zxing)
