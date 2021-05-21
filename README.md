@@ -24,12 +24,12 @@ and so on.
 
 # 使用库
 
-* [https://github.com/alibaba/fastjson](alibaba/fastjson)  
-* [https://github.com/dnsjava/dnsjava](dnsjava/dnsjava)  
-* [https://github.com/google/gson](google/gson)  
-* [https://github.com/jamietech/MinecraftServerPing](jamietech/MinecraftServerPing)  
-* [https://github.com/mamoe/mirai](mamoe/mirai)  
-* [https://github.com/mamoe/mirai-console](mamoe/mirai-console)  
-* [https://github.com/mrxiaom/mirai-utils](mrxiaom/mirai-utils)  
-* [https://github.com/netty/netty](netty/netty)  
-* [https://github.com/Steveice10/MCProtocolLib](Steveice10/MCProtocolLib) (我做了点修改，屏蔽了区块错误的报错等等，修改后的jar请见另一个分支)  
+* [alibaba/fastjson](https://github.com/alibaba/fastjson)  
+* [dnsjava/dnsjava](https://github.com/dnsjava/dnsjava)  
+* [google/gson](https://github.com/google/gson)  
+* [jamietech/MinecraftServerPing](https://github.com/jamietech/MinecraftServerPing)  
+* [mamoe/mirai](https://github.com/mamoe/mirai)  
+* [mamoe/mirai-console](https://github.com/mamoe/mirai-console)  
+* [mrxiaom/mirai-utils](https://github.com/mrxiaom/mirai-utils)  
+* [netty/netty](https://github.com/netty/netty)  
+* [Steveice10/MCProtocolLib](https://github.com/Steveice10/MCProtocolLib) (我做了点修改，屏蔽了区块错误的报错等等，修改后的jar请见另一个分支)  
